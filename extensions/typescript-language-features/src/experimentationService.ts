@@ -48,7 +48,7 @@ export async function createTasExperimentationService(
 		case 'vscode-exploration':
 			targetPopulation = tas.TargetPopulation.Internal;
 			break;
-		case 'blueberryai':
+		case 'closedai':
 			targetPopulation = tas.TargetPopulation.Team;
 			break;
 		default:

@@ -395,7 +395,7 @@ export class UserDataProfileImportExportService extends Disposable implements IU
 				persistence: {
 					sticky: true,
 				},
-				apblueberryance: {
+				apclosedance: {
 					showPointer: true,
 				},
 			}, true);

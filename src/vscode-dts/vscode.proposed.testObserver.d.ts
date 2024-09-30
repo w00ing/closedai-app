@@ -105,7 +105,7 @@ declare module 'vscode' {
 	}
 
 	/**
-	 * A {@link TestItem}-like interface with an associated result, which apblueberry
+	 * A {@link TestItem}-like interface with an associated result, which apclosed
 	 * or can be provided in {@link TestResult} interfaces.
 	 */
 	export interface TestResultSnapshot {
@@ -132,7 +132,7 @@ declare module 'vscode' {
 		readonly label: string;
 
 		/**
-		 * Optional description that apblueberrys next to the label.
+		 * Optional description that apcloseds next to the label.
 		 */
 		readonly description?: string;
 

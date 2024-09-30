@@ -1,10 +1,10 @@
 {
-	"nameShort": "blueberryAI",
-	"nameLong": "blueberryAI",
-	"blueberryAIVersion": "1.2.0",
-	"applicationName": "blueberryAI",
-	"dataFolderName": ".blueberryai",
-	"win32MutexName": "blueberryai",
+	"nameShort": "closedAI",
+	"nameLong": "closedAI",
+	"closedAIVersion": "1.2.0",
+	"applicationName": "closedAI",
+	"dataFolderName": ".closedai",
+	"win32MutexName": "closedai",
 	"licenseName": "MIT",
 	"licenseUrl": "https://github.com/microsoft/vscode/blob/main/LICENSE.txt",
 	"serverLicenseUrl": "https://github.com/microsoft/vscode/blob/main/LICENSE.txt",
@@ -12,27 +12,27 @@
 	"serverLicense": [],
 	"serverLicensePrompt": "",
 	"serverApplicationName": "code-server",
-	"serverDataFolderName": ".blueberryai-server",
+	"serverDataFolderName": ".closedai-server",
 	"tunnelApplicationName": "code-tunnel",
-	"downloadUrl": "https://tryblueberry.ai/",
-	"updateUrl": "https://stingray-app-gb2an.ondigitalocean.app/blueberryai-server-api2",
-	"win32DirName": "blueberryAI",
-	"win32NameVersion": "blueberryAI",
-	"win32RegValueName": "blueberryAI",
+	"downloadUrl": "https://tryclosed.ai/",
+	"updateUrl": "https://stingray-app-gb2an.ondigitalocean.app/closedai-server-api2",
+	"win32DirName": "closedAI",
+	"win32NameVersion": "closedAI",
+	"win32RegValueName": "closedAI",
 	"win32x64AppId": "{{D77B7E06-80BA-4137-BCF4-654B95CCEBC5}",
 	"win32arm64AppId": "{{D1ACE434-89C5-48D1-88D3-E2991DF85475}",
 	"win32x64UserAppId": "{{CC6B787D-37A0-49E8-AE24-8559A032BE0C}",
 	"win32arm64UserAppId": "{{3AEBF0C8-F733-4AD4-BADE-FDB816D53D7B}",
 	"win32AppUserModelId": "Microsoft.CodeOSS",
 	"win32ShellNameShort": "C&ode - OSS",
-	"win32TunnelServiceMutex": "blueberryai-tunnelservice",
-	"win32TunnelMutex": "blueberryai-tunnel",
+	"win32TunnelServiceMutex": "closedai-tunnelservice",
+	"win32TunnelMutex": "closedai-tunnel",
 	"darwinBundleIdentifier": "com.visualstudio.code.oss",
-	"linuxIconName": "blueberryai",
+	"linuxIconName": "closedai",
 	"licenseFileName": "LICENSE.txt",
 	"reportIssueUrl": "https://github.com/microsoft/vscode/issues/new",
 	"nodejsRepository": "https://nodejs.org",
-	"urlProtocol": "blueberryai",
+	"urlProtocol": "closedai",
 	"quality": "stable",
 	"webviewContentExternalBaseUrlTemplate": "https://{{uuid}}.vscode-cdn.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/out/vs/workbench/contrib/webview/browser/pre/",
 	"extensionsGallery": {
@@ -1667,20 +1667,20 @@
 	"cesSurveyUrl": "https://aka.ms/new-to-vscode-feedback",
 	"checksumFailMoreInfoUrl": "https://go.microsoft.com/fwlink/?LinkId=828886",
 	"settingsSearchUrl": "https://bingsettingssearch.trafficmanager.net/api/Search",
-	"blueberryAIHomepageURL": "https://tryblueberry.ai",
-	"blueberryAILinks": {
-		"homepage": "https://tryblueberry.ai",
-		"dashboard": "https://tryblueberry.ai/dashboard",
-		"faq": "https://tryblueberry.ai/faq",
-		"docs": "https://tryblueberry.ai/docs",
-		"github": "https://github.com/orgs/tryblueberry/repositories",
-		"changelog": "https://tryblueberry.ai/changelog"
+	"closedAIHomepageURL": "https://tryclosed.ai",
+	"closedAILinks": {
+		"homepage": "https://tryclosed.ai",
+		"dashboard": "https://tryclosed.ai/dashboard",
+		"faq": "https://tryclosed.ai/faq",
+		"docs": "https://tryclosed.ai/docs",
+		"github": "https://github.com/orgs/tryclosed/repositories",
+		"changelog": "https://tryclosed.ai/changelog"
 	},
 	"extensionsEnabledWithApiProposalVersion": [
 		"GitHub.copilot-chat"
 	],
 	"extensionEnabledApiProposals": {
-		"blueberryai.blueberryai": [
+		"closedai.closedai": [
 			"editorInsets"
 		],
 		"ms-vscode.vscode-selfhost-test-provider": [
@@ -2145,7 +2145,7 @@
 		}
 	},
 	"linkProtectionTrustedDomains": [
-		"https://tryblueberry.ai",
+		"https://tryclosed.ai",
 		"https://*.visualstudio.com",
 		"https://*.microsoft.com",
 		"https://aka.ms",
